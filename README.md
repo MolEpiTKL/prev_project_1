@@ -1,4 +1,4 @@
-# MolEpi
+# MolEvolEpi
 
 This repository contains codes, data, and info related to molecular epidemiology, molecular evolution, phylodynamics, and phylogenetics developed and researched as part of NIH grants to Thomas Leitner at Los Alamos National Laboratory. This repository has been acknowledged as Open Source according to:
 
